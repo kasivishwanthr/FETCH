@@ -6,6 +6,7 @@ This Repository contains files with solutions the data analyst challenge.
 
 1) First: explore the data
 The files: Data_Quality_Check_USER.pdf, Data_Quality_Check_TRANSACTION.pdf, Data_Quality_Check_PRODUCTS.pdf contain the summary of Exploratory Data Analysis of the given datasets along with data quality issues and how to resolve them.
+Also, attached are the corresponding .ipynb files for the above pdf files.
 
 2) Second: provide SQL queries
  The file: "SQL Queries.pdf" contains the SQL query solutions for the mentioned questions in the challenge
